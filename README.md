@@ -14,5 +14,5 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
-[![Build Status](https://dev.azure.com/mariuszmatysek-az400/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/Carael.calculator?branchName=master)](https://dev.azure.com/mariuszmatysek-az400/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=5&branchName=master)
+[![Build Status](https://dev.azure.com/mariuszmatysek-az400/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_apis/build/status/PartsUnlimited?branchName=master)](https://dev.azure.com/mariuszmatysek-az400/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=5&branchName=master)
 
