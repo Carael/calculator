@@ -15,4 +15,3 @@ To build, simply:
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
 [![Build Status](https://dev.azure.com/mariuszmatysek-az400/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/Carael.calculator?branchName=master)](https://dev.azure.com/mariuszmatysek-az400/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=5&branchName=master)
-
